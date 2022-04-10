@@ -237,7 +237,7 @@
     sh:targetClass owl:Ontology ;
     sh:property [
         a sh:PropertyShape ;
-        sh:path sdo:codeRespository ;
+        sh:path sdo:codeRepository ;
         sh:datatype xsd:anyURI ;
         sh:minCount 1;
         sh:severity sh:Warning ;
